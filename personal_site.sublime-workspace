@@ -1,0 +1,1706 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"bord",
+				"border-color"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"pad",
+				"padding-bottom"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"MO",
+				"MOBILE_SESSION_TIME"
+			],
+			[
+				"nextS",
+				"nextSampleTime"
+			],
+			[
+				"assets",
+				"assetList"
+			],
+			[
+				"SONG3",
+				"SONG3_CHANNEL5"
+			],
+			[
+				"clo",
+				"_closeCallback"
+			],
+			[
+				"SLIDER_R",
+				"SLIDER_RANGE_TOP"
+			],
+			[
+				"MIXER",
+				"MixerChannel"
+			],
+			[
+				"videoOffset",
+				"videoOffsetX"
+			],
+			[
+				"decod",
+				"_decodingOverlay"
+			],
+			[
+				"BUTTON",
+				"BUTTON_UI_MUTE"
+			],
+			[
+				"Son",
+				"SONG_CHANNEL_2"
+			],
+			[
+				"outline",
+				"outline-style"
+			],
+			[
+				"channels",
+				"_channels"
+			],
+			[
+				"skipButton",
+				"skipButton"
+			],
+			[
+				"nonAc",
+				"nonActiveBtn2"
+			],
+			[
+				"nonA",
+				"nonActiveBtn2"
+			],
+			[
+				"B",
+				"BUTTON_NEXT"
+			],
+			[
+				"playBac",
+				"playbackHandler"
+			],
+			[
+				"FILT",
+				"FILTERS"
+			],
+			[
+				"imp",
+				"impulseResponse"
+			],
+			[
+				"FILTERP",
+				"FILTER_HIGHPASS"
+			],
+			[
+				"recorder",
+				"_recorder"
+			],
+			[
+				"SLIDER",
+				"SLIDER_RANGE_BOTTOM"
+			],
+			[
+				"_sou",
+				"_soundName"
+			],
+			[
+				"filt",
+				"_filterNodes"
+			],
+			[
+				"_vo",
+				"_volumeNode"
+			],
+			[
+				"mix",
+				"mixerChannel1"
+			],
+			[
+				"mixe",
+				"mixerBoardBackground"
+			],
+			[
+				"_game",
+				"_gameIndex"
+			],
+			[
+				"_ga",
+				"_gameIndex"
+			],
+			[
+				"CATE",
+				"CATEGORY_GAME"
+			],
+			[
+				"_pa",
+				"_pauseOverlay"
+			],
+			[
+				"Button",
+				"ButtonData"
+			],
+			[
+				"_tileMaps",
+				"_tileMapsInfo"
+			],
+			[
+				"tileM",
+				"tileMap"
+			],
+			[
+				"tile",
+				"tileMap"
+			],
+			[
+				"_tile",
+				"_tileMaps"
+			],
+			[
+				"_til",
+				"_tileMaps"
+			],
+			[
+				"_tilem",
+				"_tileMapsInfo"
+			],
+			[
+				"de",
+				"delta"
+			],
+			[
+				"_of",
+				"_offsetX"
+			],
+			[
+				"pos",
+				"posX"
+			],
+			[
+				"_render",
+				"_renderSource"
+			],
+			[
+				"_par",
+				"_particle"
+			],
+			[
+				"_in",
+				"_inputObject"
+			],
+			[
+				"inpu",
+				"inputObject"
+			],
+			[
+				"Tim",
+				"timeManager"
+			],
+			[
+				"part",
+				"particleBoundingBoxCollision"
+			],
+			[
+				"time",
+				"timeManager"
+			],
+			[
+				"glo",
+				"globalTimeManager"
+			],
+			[
+				"tim",
+				"timeManager"
+			],
+			[
+				"ti",
+				"timeManager"
+			],
+			[
+				"_chil",
+				"_childNodesDirty"
+			],
+			[
+				"_transfo",
+				"_transformDirty"
+			],
+			[
+				"re",
+				"repeatCount"
+			],
+			[
+				"veloc",
+				"velocityX"
+			],
+			[
+				"Colli",
+				"Collideable"
+			],
+			[
+				"lev",
+				"level1Button"
+			],
+			[
+				"in",
+				"inputDown"
+			],
+			[
+				"visi",
+				"visibilityChangeSignal"
+			],
+			[
+				"vi",
+				"visibilityChangeSignal"
+			],
+			[
+				"_achi",
+				"_achievementData"
+			],
+			[
+				"achi",
+				"achievementButton"
+			],
+			[
+				"_ach",
+				"_achievementButtons"
+			],
+			[
+				"Ache",
+				"AchievementButton"
+			],
+			[
+				"pag",
+				"_pageIndex"
+			],
+			[
+				"camera",
+				"cameraPanXFactor"
+			],
+			[
+				"render",
+				"renderLayer"
+			],
+			[
+				"l",
+				"loop"
+			],
+			[
+				"vlu",
+				"volume"
+			],
+			[
+				"DECO",
+				"DECODING"
+			],
+			[
+				"Time",
+				"TimelineLite"
+			],
+			[
+				"centr",
+				"centerY"
+			],
+			[
+				"expir",
+				"expiresIn"
+			],
+			[
+				"TILED",
+				"TILED_JSON"
+			],
+			[
+				"_registra",
+				"_registrationX"
+			],
+			[
+				"_regi",
+				"_registrationY"
+			],
+			[
+				"_re",
+				"_registrationY"
+			],
+			[
+				"_regis",
+				"_registrationX"
+			],
+			[
+				"_positio",
+				"_positionX"
+			],
+			[
+				"_inputPoi",
+				"_inputPosition"
+			],
+			[
+				"_input",
+				"_inputPosition"
+			],
+			[
+				"_renderC",
+				"_renderComponent"
+			],
+			[
+				"_coll",
+				"_collider"
+			],
+			[
+				"_lo",
+				"_loadingCount"
+			],
+			[
+				"rem",
+				"removeAll"
+			],
+			[
+				"inp",
+				"inputManager"
+			],
+			[
+				"creat",
+				"createRadialGradient"
+			],
+			[
+				"use",
+				"useGradient"
+			],
+			[
+				"Rect",
+				"RectGraphic"
+			],
+			[
+				"fil",
+				"fillStyle"
+			],
+			[
+				"_rend",
+				"_renderContext"
+			],
+			[
+				"Canv",
+				"CanvasRenderingContext2D"
+			],
+			[
+				"rendero",
+				"renderComponent"
+			],
+			[
+				"_pos",
+				"_positionX"
+			],
+			[
+				"reg",
+				"registrationY"
+			],
+			[
+				"tr",
+				"translate"
+			],
+			[
+				"Env",
+				"EnvUtil"
+			],
+			[
+				"isCh",
+				"isChrome"
+			],
+			[
+				"brow",
+				"browserVersion"
+			],
+			[
+				"target",
+				"targetType"
+			],
+			[
+				"Co",
+				"COUNT"
+			],
+			[
+				"dest",
+				"destroyed"
+			],
+			[
+				"Ch",
+				"ChrisCutler"
+			],
+			[
+				"getTime",
+				"getTimeStamp"
+			],
+			[
+				"_timeSt",
+				"_timeStampOffset"
+			],
+			[
+				"get",
+				"getTimer"
+			],
+			[
+				"_time",
+				"_timeStampOffset"
+			],
+			[
+				"ILo",
+				"ILogTarget"
+			],
+			[
+				"lo",
+				"logMessage"
+			],
+			[
+				"a",
+				"Array"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "bin/index.html",
+			"settings":
+			{
+				"buffer_size": 819,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "bin/css/style.css",
+			"settings":
+			{
+				"buffer_size": 1330,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "bin/js/main.js",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/User/TypeScript.sublime-build",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"add",
+				"Project: Add Folder"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"ins pa",
+				"Package Control: Install Package"
+			],
+			[
+				"con tab",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"syn ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"tabs",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"syn ty",
+				"Set Syntax: TypeScript"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 125.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Akil/Desktop/website",
+		"/C/Users/Akil/Desktop/website/bin",
+		"/C/Users/Akil/Desktop/website/bin/css",
+		"/C/Users/Akil/Desktop/website/bin/js"
+	],
+	"file_history":
+	[
+		"/C/Users/Akil/Desktop/website/bin/media",
+		"/C/Users/Akil/Desktop/MusicMixer/debug/strings.json",
+		"/C/Users/Akil/Desktop/MusicMixer/debug/index.html",
+		"/C/Users/Akil/Desktop/MusicMixer/build.sh",
+		"/C/Users/Akil/Desktop/MusicMixer/debug/config.json",
+		"/C/Users/Akil/Desktop/MusicMixer/src/data/GameData.ts",
+		"/C/Users/Akil/Desktop/MusicMixer/src/data/ButtonData.ts",
+		"/C/Users/Akil/Desktop/MusicMixer/src/screens/MusicMixerLoader.ts",
+		"/C/Users/Akil/Desktop/MusicMixer/src/screens/EndScreen.ts",
+		"/C/Users/Akil/Desktop/MusicMixer/src/screens/MenuOverlay.ts",
+		"/C/Users/Akil/Desktop/MusicMixer/debug/css/game.css",
+		"/C/Users/Akil/Desktop/MusicMixer/src/screens/ShareScreen.ts",
+		"/C/Users/Akil/Desktop/MusicMixer/debug/media/buttons/button_select_song3_2.json",
+		"/C/Users/Akil/Desktop/MusicMixer/src/screens/TutorialOverlay.ts",
+		"/C/Users/Akil/Desktop/MusicMixer/src/mixer/MixRecorder.ts",
+		"/D/Akil/Google Drive/My Files/Work/Mattel Games/AvotaJS/src/game/GameSettings.ts",
+		"/D/Akil/Google Drive/My Files/Work/Mattel Games/AvotaJS/src/game/Game.ts",
+		"/C/Users/Akil/Desktop/MusicMixer/src/screens/DecodingOverlay.ts",
+		"/C/Users/Akil/Desktop/MusicMixer/src/ui/MusicMixerUI.ts",
+		"/C/Users/Akil/Desktop/MusicMixer/src/screens/TitleScreen.ts",
+		"/C/Users/Akil/Desktop/MusicMixer/src/screens/SongSelectScreen.ts",
+		"/D/Akil/Google Drive/My Files/Work/Mattel Games/AvotaJS/src/sound/SoundManager.ts",
+		"/C/Users/Akil/Desktop/MusicMixer/src/level/MusicMixerLevel.ts",
+		"/C/Users/Akil/Desktop/MusicMixer/src/mixer/MixerChannel.ts",
+		"/C/Users/Akil/Desktop/MusicMixer/src/MusicMixerGame.ts",
+		"/D/Akil/Google Drive/My Files/Work/Mattel Games/AvotaJS/src/base/context/Context.ts",
+		"/D/Akil/Google Drive/My Files/Work/Mattel Games/AvotaJS/src/resource/types/SoundResource.ts",
+		"/D/Akil/Google Drive/My Files/Work/Mattel Games/AvotaJS/src/sound/SoundElement.ts",
+		"/D/Akil/Google Drive/My Files/Work/Mattel Games/AvotaJS/src/game/scene/GameScene.ts",
+		"/C/Users/Akil/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Akil/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/D/Akil/Google Drive/My Files/Work/Mattel Games/AvotaJS/src/base/entity/Entity.ts",
+		"/D/Akil/Google Drive/My Files/Work/Mattel Games/AvotaJS/src/base/group/Group.ts",
+		"/D/Akil/Google Drive/My Files/Work/Mattel Games/AvotaJS/src/base/element/Element.ts",
+		"/D/Akil/Google Drive/My Files/Work/Mattel Games/AvotaJS/src/game/scene/Level.ts",
+		"/C/Users/Akil/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/Akil/Desktop/MMixer/debug/config.json",
+		"/D/Akil/Google Drive/My Files/Work/Mattel Games/AvotaJS/src/game/engine/rendering/RenderManager.js",
+		"/Users/Saykrd/Sites/Mattel Games/AvotaJS/src/Avota.ts",
+		"/Users/Saykrd/Sites/Mattel Games/AvotaJS/src/game/graphic/AnimatedGraphic.ts",
+		"/Users/Saykrd/Google Drive/My Files/Work/Hasbro Games/SeeYourselfRockified/game/src/scenes/ChoosePhotoOverlay.ts",
+		"/Users/Saykrd/Sites/Mattel Games/AvotaJS/src/utils/EnvUtil.ts",
+		"/Users/Saykrd/Sites/Mattel Games/AvotaJS/src/game/ui/TextGraphic.ts",
+		"/Users/Saykrd/Sites/Mattel Games/AvotaJS/src/sound/SoundElement.ts",
+		"/Users/Saykrd/Sites/Mattel Games/AvotaJS/src/resource/types/SWFResource.ts",
+		"/Users/Saykrd/Google Drive/My Files/Work/Hasbro Games/SeeYourselfRockified/Assets/spritesheets_rockified/gamescreen_assets.json",
+		"/Users/Saykrd/Sites/Mattel Games/MusicMixer/buildInfo.sh",
+		"/Users/Saykrd/Sites/Mattel Games/AvotaJS/src/particles/initializers/Velocity.ts",
+		"/Users/Saykrd/Google Drive/My Files/Work/Hasbro Games/RainbowRocks/game/buildInfo.sh",
+		"/Users/Saykrd/Sites/Mattel Games/AvotaJS/src/game/ui/Button.ts",
+		"/Users/Saykrd/Sites/Mattel Games/AvotaJS/src/particles/initializers/MassInit.ts",
+		"/Users/Saykrd/Sites/Mattel Games/AvotaJS/src/base/element/IElement.ts",
+		"/Users/Saykrd/Sites/Mattel Games/MusicMixer/assets/buttons/button_select_song3.json",
+		"/Users/Saykrd/Sites/Mattel Games/MusicMixer/assets/audio/WeMonsterHigh/WeMonsterHigh_VocalsBackground.wav",
+		"/Users/Saykrd/Sites/Mattel Games/MusicMixer/src/screens/DecodingOverlay.ts",
+		"/Users/Saykrd/Sites/Mattel Games/MusicMixer/debug/strings.json",
+		"/Users/Saykrd/Sites/Mattel Games/MusicMixer/src/data/GameData.ts",
+		"/Users/Saykrd/Google Drive/My Files/Work/Hasbro Games/SeeYourselfRockified/release_fixed/media/sound/sfx_change_background.mp3",
+		"/Users/Saykrd/Google Drive/My Files/Work/Hasbro Games/SeeYourselfRockified/Assets/audio/WAV/sfx_change_background.wav",
+		"/Users/Saykrd/Sites/Mattel Games/AvotaJS/src/particles/actions/ChangeCollisionRadius.ts",
+		"/Users/Saykrd/Google Drive/My Files/Work/Hasbro Games/SeeYourselfRockified/game/fallback/upload_fallback/Upload_fallback/src/com/adobe/protocols/dict/events/MatchEvent.as",
+		"/Users/Saykrd/Sites/Mattel Games/MusicMixer/assets/audio/ImpulseResponses/IMreverbs4/Conic Long Echo Hall.wav",
+		"/Users/Saykrd/Google Drive/My Files/Work/Hasbro Games/SeeYourselfRockified/game/node_modules/uglify-js/test/compress/dead-code.js",
+		"/Users/Saykrd/Sites/Mattel Games/AvotaJS/src/game/GameLoader.ts",
+		"/Users/Saykrd/Sites/Mattel Games/AvotaJS/src/easing/Linear.ts",
+		"/Users/Saykrd/Google Drive/My Files/Work/Hasbro Games/SeeYourselfRockified/game/node_modules/uglify-js/node_modules/optimist/example/line_count_options.js",
+		"/Users/Saykrd/Google Drive/My Files/Work/Hasbro Games/RainbowRocks/release/media/sound/lose_a_star.mp3",
+		"/Users/Saykrd/Google Drive/My Files/Work/Hasbro Games/SeeYourselfRockified/release_fixed/js/load-image.min.js",
+		"/Users/Saykrd/Sites/Mattel Games/AvotaJS/src/game/graphic/shapes/RectGraphic.ts",
+		"/Users/Saykrd/Sites/Mattel Games/AvotaJS/src/game/graphic/shapes/ShapeGraphic.ts",
+		"/Users/Saykrd/Sites/Mattel Games/AvotaJS/src/geom/Rectangle.ts",
+		"/Users/Saykrd/Sites/Mattel Games/AvotaJS/src/debug/Profiler.ts",
+		"/Users/Saykrd/Sites/Mattel Games/AvotaJS/src/sound/SoundManager.ts",
+		"/Users/Saykrd/Sites/Mattel Games/AvotaJS/src/state/StateElement.ts",
+		"/Users/Saykrd/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/Saykrd/Sites/Mattel Games/MusicMixer/debug/media/buttons/button_ui_help.json",
+		"/Users/Saykrd/Sites/Mattel Games/MusicMixer/assets/audio/audio_freakyfusion_channel_vocalsbackground.mp3",
+		"/Users/Saykrd/Sites/Mattel Games/MusicMixer/debug/css/game.css",
+		"/Users/Saykrd/Sites/Mattel Games/AvotaJS/src/particles/actions/MouseAntiGravity.ts",
+		"/Users/Saykrd/Sites/Mattel Games/MusicMixer/assets/buttons/button_ui_unmute.json",
+		"/Users/Saykrd/Sites/Mattel Games/MusicMixer/assets/audio/ImpulseResponses/IMreverbs1/Narrow Bumpy Space.wav",
+		"/Users/Saykrd/Google Drive/My Files/Work/Hasbro Games/SeeYourselfRockified/game/node_modules/uglify-js/node_modules/source-map/node_modules/amdefine/LICENSE",
+		"/Users/Saykrd/Sites/Mattel Games/MusicMixer/assets/audio/audio_wemonsterhigh_channel_vocalslead.mp3",
+		"/Users/Saykrd/Google Drive/My Files/Work/Hasbro Games/SeeYourselfRockified/game/node_modules/uglify-js/node_modules/source-map/node_modules/amdefine/amdefine.js",
+		"/Users/Saykrd/Sites/Mattel Games/MusicMixer/assets/audio/WitchingHour/Witching Hour_Main Lead Vocals.wav",
+		"/Users/Saykrd/Sites/Mattel Games/MusicMixer/MusicMixer.sublime-project",
+		"/Users/Saykrd/Sites/Mattel Games/AvotaJS/src/particles/zones/MultiZone.ts",
+		"/Users/Saykrd/Sites/Mattel Games/MusicMixer/debug/js/ZeroClipboard.min.map",
+		"/Users/Saykrd/Sites/Mattel Games/MusicMixer/assets/audio/ImpulseResponses/IMreverbs2/Large Long Echo Hall.wav",
+		"/Users/Saykrd/Sites/Mattel Games/AvotaJS/src/game/scene/Level.ts",
+		"/Users/Saykrd/Sites/Mattel Games/AvotaJS/src/pool/ObjectPool.ts",
+		"/Users/Saykrd/Google Drive/My Files/Work/Hasbro Games/RainbowRocks/release/js/omniture-tracking.js",
+		"/Users/Saykrd/Sites/Mattel Games/MusicMixer/assets/old_media/audio/ff_bass.mp3",
+		"/Users/Saykrd/Sites/Mattel Games/MusicMixer/assets/old_media/audio/ff_guitar.mp3",
+		"/Users/Saykrd/Sites/Mattel Games/MusicMixer/assets/level/button_mixer_slider.json",
+		"/Users/Saykrd/Google Drive/My Files/Work/Hasbro Games/SeeYourselfRockified/Assets/character_portraits/char_portrait_aj.json",
+		"/Users/Saykrd/Sites/Mattel Games/MusicMixer/src/GameReferences.ts",
+		"/Users/Saykrd/Google Drive/My Files/Work/Hasbro Games/SeeYourselfRockified/release_fixed/js/TweenMax.min.js",
+		"/Users/Saykrd/Sites/Mattel Games/AvotaJS/src/particles/actions/Fade.ts",
+		"/Users/Saykrd/Sites/Mattel Games/MusicMixer/assets/audio/ImpulseResponses/IMreverbs1/Five Columns.wav",
+		"/Users/Saykrd/Sites/Mattel Games/AvotaJS/src/game/components/ControlComponent.ts",
+		"/Users/Saykrd/Sites/Mattel Games/AvotaJS/src/particles/actions/ColorChange.ts",
+		"/Users/Saykrd/Google Drive/My Files/Work/Hasbro Games/SeeYourselfRockified/game/src/scenes/ChoosePhotoOverlay-old.ts",
+		"/Users/Saykrd/Sites/Mattel Games/MusicMixer/assets/audio/ImpulseResponses/IMreverbs1/In The Silo Revised.wav",
+		"/Users/Saykrd/Google Drive/My Files/Work/Hasbro Games/SeeYourselfRockified/Assets/missing buttons/btn_x.json",
+		"/Users/Saykrd/Sites/Mattel Games/AvotaJS/src/particles/utils/FastWeightedArray.ts",
+		"/Users/Saykrd/Sites/Mattel Games/MusicMixer/fallback/assets/ff_efx.mp3",
+		"/Users/Saykrd/Google Drive/My Files/Work/Hasbro Games/RainbowRocks/release/media/sound/shake_your_tail_gameplay_edit.mp3",
+		"/Users/Saykrd/Sites/Mattel Games/MusicMixer/assets/audio/audio_freakyfusion_channel_music.mp3",
+		"/Users/Saykrd/Sites/Mattel Games/MusicMixer/assets/audio/ImpulseResponses/IMreverbs1/Five Columns Long.wav",
+		"/Users/Saykrd/Google Drive/My Files/Work/Hasbro Games/SeeYourselfRockified/game/fallback/upload_fallback/Upload_fallback/src/com/adobe/air/logging/FileTarget.as",
+		"/Users/Saykrd/Sites/Mattel Games/AvotaJS/src/game/graphic/HTMLGraphic.ts",
+		"/Users/Saykrd/Google Drive/My Files/Work/Hasbro Games/SeeYourselfRockified/Assets/audio/WAV/sfx_hover_items.wav",
+		"/Users/Saykrd/Google Drive/My Files/Work/Hasbro Games/SeeYourselfRockified/Assets/ComicSerifPro/MyFontsWebfontsKit/Start here files/highlight.js",
+		"/Users/Saykrd/Sites/Mattel Games/AvotaJS/src/utils/ArrayUtil.ts",
+		"/Users/Saykrd/Sites/Mattel Games/MusicMixer/assets/audio/audio_freakyfusion_full.mp3",
+		"/Users/Saykrd/Sites/Mattel Games/MusicMixer/assets/audio/audio_freakyfusion_channel_fx.mp3",
+		"/Users/Saykrd/Sites/Mattel Games/MusicMixer/assets/audio/audio_freakyfusion_channel_percussion.mp3",
+		"/Users/Saykrd/Sites/Mattel Games/MusicMixer/assets/audio/ImpulseResponses/IMreverbs4/Chateau de Logne, Outside.wav",
+		"/Users/Saykrd/Sites/Mattel Games/MusicMixer/assets/audio/WitchingHour/Witching Hour_EFX.wav",
+		"/Users/Saykrd/Google Drive/My Files/Work/Hasbro Games/RainbowRocks/assets/PonyPhones.fla",
+		"/Users/Saykrd/Google Drive/My Files/Work/Hasbro Games/RainbowRocks/assets/placeholder_assets.fla",
+		"/Users/Saykrd/Sites/Mattel Games/AvotaJS/src/utils/ObjectUtil.ts",
+		"/Users/Saykrd/Google Drive/My Files/Work/Hasbro Games/RainbowRocks/release/media/sound/shake_your_tail_loading_loop.mp3",
+		"/Users/Saykrd/Google Drive/My Files/Work/Hasbro Games/SeeYourselfRockified/game/node_modules/uglify-js/node_modules/optimist/example/line_count.js",
+		"/Users/Saykrd/Sites/Mattel Games/MusicMixer/npm-debug.log",
+		"/Users/Saykrd/Sites/Mattel Games/MusicMixer/assets/level/graphic_mixer_turntable.json",
+		"/Users/Saykrd/Google Drive/My Files/Work/Hasbro Games/SeeYourselfRockified/game/node_modules/uglify-js/lib/mozilla-ast.js"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"C:\\Users\\Akil\\Desktop\\MusicMixer\\src",
+			"/Users/Saykrd/Sites/Mattel Games/MusicMixer/src",
+			"/Users/chris/Dropbox/Work/ChrisCutler/AvotaJS/src/,*.ts",
+			"/Users/chris/Dropbox/Work/ChrisCutler/AvotaJS/src/particles/actionss,*.ts",
+			"/Users/chris/Dropbox/Work/ChrisCutler/AvotaJS/libs,*.ts",
+			"/Users/chris/Dropbox/Work/ChrisCutler/AvotaJS/src/particles,*.ts",
+			"/Users/chris/Dropbox/Work/ChrisCutler/AvotaJS/src,*.ts",
+			"/Users/chris/Dropbox/Work/ChrisCutler/AvotaJS,*.ts",
+			"/Users/chris/Dropbox/Work/ChrisCutler/AvotaJS",
+			"/Users/chris/Dropbox/Work/ChrisCutler/AvotaJS/src,*.ts",
+			"/Users/chris/Dropbox/Work/ChrisCutler/AvotaJS/src,*.ts,/Users/chris/Dropbox/Work/ChrisCutler/AvotaJS/test/frozen",
+			"/Users/chris/Dropbox/Work/ChrisCutler/AvotaJS/src,*.ts",
+			"/Users/chris/Dropbox/Work/ChrisCutler/AvotaJS/src"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"endSession",
+			"onTick",
+			"this._settings",
+			"settings",
+			"displayWidth",
+			"settings",
+			"this._settings",
+			"unloadAllS",
+			"endSession",
+			"console.log",
+			"unloadAll",
+			"endSession",
+			"prevSample",
+			"MakeImage",
+			"Casta",
+			"endSession",
+			"setVolume",
+			"activateChannel",
+			"onTick",
+			"setSoundVolume",
+			"setVolume",
+			"SLIDER",
+			"slider",
+			"FULL",
+			"full",
+			"aac",
+			"FULL",
+			"full",
+			"aac",
+			"FULL",
+			"short",
+			"FULL",
+			"abridged",
+			"MOBILE",
+			"endSession",
+			"fade",
+			"aac",
+			"startSignal",
+			"_sound =",
+			"_sound",
+			"_position",
+			"setSoundVolume",
+			"setVolume",
+			"Casta",
+			"Skull",
+			"showSpider",
+			"_spider",
+			"_casta",
+			"playIdle",
+			"_casta",
+			"false",
+			"onSoundComplete",
+			"_soundAssets",
+			"nextSound",
+			"_soundResources",
+			"_soundIndex",
+			"_soundList",
+			"findSounds",
+			"getAsset",
+			"Assets",
+			"findSounds",
+			"_recorder",
+			"true",
+			"mp3",
+			"\\",
+			"showDecoding",
+			"completeCallb",
+			"onDecode",
+			"this",
+			"completeSignal",
+			"setVolume",
+			"activateChannel(",
+			"config",
+			"findSounds",
+			"songDuration",
+			"duration",
+			"activateChannel",
+			"changeState",
+			"_soundName",
+			"this._soundName",
+			"changeState",
+			"this._soundName",
+			"_currentState",
+			"changeState",
+			"setVolume",
+			"setSoundVolume",
+			"playSound",
+			"play",
+			"activateChannel",
+			"_soundName",
+			"tag",
+			"play",
+			"guitar",
+			"ctrl+h",
+			"replace",
+			"guitar",
+			"media/audio/",
+			"aac",
+			"false",
+			"m4a",
+			"soundManager",
+			"completeSignal",
+			"registerAss",
+			"onTic",
+			"decodeList",
+			"GameData.track",
+			"track",
+			"preparing",
+			"checkMusic",
+			"Housing",
+			"housing",
+			"position",
+			"this.tag",
+			"timerBar",
+			"checkMusic",
+			"activateChannel",
+			"activateChannel(",
+			"background.png",
+			"background.pong",
+			"hideDecoding",
+			"this",
+			"loadingString",
+			"onTick",
+			"maxVolume",
+			"setVolume",
+			"5",
+			"1.5",
+			"1.5`"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"sample",
+			"SHORT",
+			"short",
+			"mp3",
+			"SHORT",
+			"short",
+			"mp3",
+			"SHORT",
+			"full",
+			"SHORT",
+			"short",
+			"mp3",
+			"CastaSheet",
+			"true",
+			"onSampleComplete",
+			"_sampleAssets",
+			"nextSample",
+			"_sampleResources",
+			"_sampleIndex",
+			"_sampleList",
+			"false",
+			"aac",
+			"this._soundList[this._soundIndex]",
+			"leadvocals",
+			"backupvocals",
+			"keyboard",
+			"percussion",
+			"media/audio/ff/guitar/",
+			"mp3",
+			"true",
+			"aac",
+			"MixerChannel.ICONS[this._soundName]",
+			"level",
+			"DecodingOverlay",
+			"Regular",
+			"wh",
+			"WitchingHour",
+			"WAMH",
+			"quitConfirmText",
+			"overlayCopy",
+			"MenuOverlay",
+			"TutorialOverlay",
+			"media",
+			"TYPE_CIRCLE",
+			"",
+			"MusicMixer",
+			"if (emitter.particleBoundingBoxCollision.getNumListeners() > 0)",
+			"emitter.particleBoundingBoxCollision.dispatch(p);",
+			"<Emitter2D> emitter",
+			"<Particle2D> particle",
+			"/// <reference path='../../AvotaReferences.ts'/>\n\nmodule Avota",
+			"/// <reference path='../../AvotaReferences.ts'/>\n/// <reference path='../../AvotaReferences.ts'/>\n\nmodule Avota\nmodule Avota",
+			"/// <reference path='../../AvotaReferences.ts'/>\n\nmodule Avota",
+			"/Users/chris/Dropbox/Work/ChrisCutler/AvotaJS/src/particles/actionss,*.ts\n/Users/chris/Dropbox/Work/ChrisCutler/AvotaJS/src/particles/actionss,*.ts\n\n",
+			":any",
+			"for (",
+			"if (",
+			"number",
+			"private",
+			":",
+			")",
+			"(",
+			")",
+			"",
+			"boolean"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "bin/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 819,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								323,
+								323
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"file": "bin/css/style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1330,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1255,
+								1255
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1344.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 2,
+					"file": "bin/js/main.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			],
+			[
+				0,
+				1,
+				1,
+				2
+			],
+			[
+				1,
+				1,
+				2,
+				2
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.507751937984,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.5,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 154.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "personal_site.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"mixre",
+				"MusicMixer\\src\\mixer\\MixRecorder.ts"
+			],
+			[
+				"mixreco",
+				"MusicMixer\\src\\mixer\\MixRecorder.ts"
+			],
+			[
+				"context",
+				"AvotaJS\\src\\base\\context\\Context.ts"
+			],
+			[
+				"gamesettings",
+				"AvotaJS\\src\\game\\GameSettings.ts"
+			],
+			[
+				"game",
+				"AvotaJS\\src\\game\\Game.ts"
+			],
+			[
+				"endscree",
+				"MusicMixer\\src\\screens\\EndScreen.ts"
+			],
+			[
+				"endscreen",
+				"MusicMixer\\src\\screens\\EndScreen.ts"
+			],
+			[
+				"mmui",
+				"MusicMixer\\src\\ui\\MusicMixerUI.ts"
+			],
+			[
+				"menuoverla",
+				"MusicMixer\\src\\screens\\MenuOverlay.ts"
+			],
+			[
+				"mixr",
+				"MusicMixer\\src\\mixer\\MixRecorder.ts"
+			],
+			[
+				"soundeleme",
+				"AvotaJS\\src\\sound\\SoundElement.ts"
+			],
+			[
+				"gamescene",
+				"AvotaJS\\src\\game\\scene\\GameScene.ts"
+			],
+			[
+				"elelem",
+				"AvotaJS\\src\\base\\element\\Element.ts"
+			],
+			[
+				"group",
+				"AvotaJS\\src\\base\\group\\Group.ts"
+			],
+			[
+				"entity",
+				"AvotaJS\\src\\base\\entity\\Entity.ts"
+			],
+			[
+				"titlesc",
+				"MusicMixer\\src\\screens\\TitleScreen.ts"
+			],
+			[
+				"songsele",
+				"MusicMixer\\src\\screens\\SongSelectScreen.ts"
+			],
+			[
+				"titlescree",
+				"MusicMixer\\src\\screens\\TitleScreen.ts"
+			],
+			[
+				"sound",
+				"AvotaJS\\src\\sound\\SoundElement.ts"
+			],
+			[
+				"level",
+				"AvotaJS\\src\\game\\scene\\Level.ts"
+			],
+			[
+				"decod",
+				"MusicMixer\\src\\screens\\DecodingOverlay.ts"
+			],
+			[
+				"soundmana",
+				"AvotaJS\\src\\sound\\SoundManager.ts"
+			],
+			[
+				"mixerchannel",
+				"MusicMixer\\src\\mixer\\MixerChannel.ts"
+			],
+			[
+				"titlescr",
+				"MusicMixer\\src\\screens\\TitleScreen.ts"
+			],
+			[
+				"soundresource",
+				"AvotaJS\\src\\resource\\types\\SoundResource.ts"
+			],
+			[
+				"resourceman",
+				"AvotaJS\\src\\resource\\ResourceManager.ts"
+			],
+			[
+				"soundmna",
+				"AvotaJS\\src\\sound\\SoundManager.ts"
+			],
+			[
+				"rmanager",
+				"AvotaJS\\src\\game\\engine\\rendering\\RenderManager.js"
+			],
+			[
+				"resourcemana",
+				"AvotaJS\\src\\resource\\ResourceManager.ts"
+			],
+			[
+				"sss",
+				"MusicMixer\\src\\screens\\SongSelectScreen.ts"
+			],
+			[
+				"soundman",
+				"AvotaJS\\src\\sound\\SoundManager.ts"
+			],
+			[
+				"resourcem",
+				"AvotaJS\\src\\resource\\ResourceManager.ts"
+			],
+			[
+				"gamedata",
+				"MusicMixer\\src\\data\\GameData.ts"
+			],
+			[
+				"build",
+				"MusicMixer/build.sh"
+			],
+			[
+				"gd",
+				"MusicMixer/src/data/GameData.ts"
+			],
+			[
+				"build.sh",
+				"MusicMixer/build.sh"
+			],
+			[
+				"bui",
+				"MusicMixer/buildInfo.sh"
+			],
+			[
+				"mmlev",
+				"MusicMixer/src/level/MusicMixerLevel.ts"
+			],
+			[
+				"mixerca",
+				"MusicMixer/src/mixer/MixerChannel.ts"
+			],
+			[
+				"gameda",
+				"MusicMixer/src/data/GameData.ts"
+			],
+			[
+				"mixercha",
+				"MusicMixer/src/mixer/MixerChannel.ts"
+			],
+			[
+				"index",
+				"MusicMixer/debug/index.html"
+			],
+			[
+				"endsc",
+				"MusicMixer/src/screens/EndScreen.ts"
+			],
+			[
+				"mmg",
+				"MusicMixer/src/MusicMixerGame.ts"
+			],
+			[
+				"shares",
+				"MusicMixer/src/screens/ShareScreen.ts"
+			],
+			[
+				"decodingov",
+				"MusicMixer/src/screens/DecodingOverlay.ts"
+			],
+			[
+				"sharescree",
+				"MusicMixer/src/screens/ShareScreen.ts"
+			],
+			[
+				"mml",
+				"MusicMixer/src/level/MusicMixerLevel.ts"
+			],
+			[
+				"strings",
+				"MusicMixer/debug/strings.json"
+			],
+			[
+				"config",
+				"MusicMixer/debug/config.json"
+			],
+			[
+				"mixerchann",
+				"MusicMixer/src/mixer/MixerChannel.ts"
+			],
+			[
+				"mmleve",
+				"MusicMixer/src/level/MusicMixerLevel.ts"
+			],
+			[
+				"decodingover",
+				"MusicMixer/src/screens/DecodingOverlay.ts"
+			],
+			[
+				"shapegra",
+				"src/game/graphic/shapes/ShapeGraphic.ts"
+			],
+			[
+				"rectgra",
+				"src/game/graphic/shapes/RectGraphic.ts"
+			],
+			[
+				"sharescre",
+				"MusicMixer/src/screens/ShareScreen.ts"
+			],
+			[
+				"men",
+				"MusicMixer/src/screens/MenuOverlay.ts"
+			],
+			[
+				"ends",
+				"MusicMixer/src/screens/EndScreen.ts"
+			],
+			[
+				"menuover",
+				"MusicMixer/src/screens/MenuOverlay.ts"
+			],
+			[
+				"menuov",
+				"MusicMixer/src/screens/MenuOverlay.ts"
+			],
+			[
+				"avota",
+				"src/Avota.ts"
+			],
+			[
+				"",
+				"MusicMixer/src/ui/MusicMixerUI.ts"
+			],
+			[
+				"mmlevel",
+				"MusicMixer/src/level/MusicMixerLevel.ts"
+			],
+			[
+				"soundmanage",
+				"src/sound/SoundManager.ts"
+			],
+			[
+				"mchann",
+				"MusicMixer/src/mixer/MixerChannel.ts"
+			],
+			[
+				"mixerc",
+				"MusicMixer/src/mixer/MixerChannel.ts"
+			],
+			[
+				"mchn",
+				"MusicMixer/src/mixer/MixerChannel.ts"
+			],
+			[
+				"mmle",
+				"MusicMixer/src/level/MusicMixerLevel.ts"
+			],
+			[
+				"mcha",
+				"MusicMixer/src/mixer/MixerChannel.ts"
+			],
+			[
+				"mixerchan",
+				"MusicMixer/src/mixer/MixerChannel.ts"
+			],
+			[
+				"sharesc",
+				"MusicMixer/src/screens/ShareScreen.ts"
+			],
+			[
+				"ssscre",
+				"MusicMixer/src/screens/SongSelectScreen.ts"
+			],
+			[
+				"mixerle",
+				"MusicMixer/src/level/MusicMixerLevel.ts"
+			],
+			[
+				"mchan",
+				"MusicMixer/src/mixer/MixerChannel.ts"
+			],
+			[
+				"cpo",
+				"SeeYourselfRockified/game/src/scenes/ChoosePhotoOverlay.ts"
+			],
+			[
+				"gamed",
+				"MusicMixer/src/data/GameData.ts"
+			],
+			[
+				"mmga",
+				"MusicMixer/src/MusicMixerGame.ts"
+			],
+			[
+				"decodingo",
+				"MusicMixer/src/screens/DecodingOverlay.ts"
+			],
+			[
+				"musicmle",
+				"MusicMixer/src/level/MusicMixerLevel.ts"
+			],
+			[
+				"souneman",
+				"SeeYourselfRockified/release_fixed/js/TweenMax.min.js"
+			],
+			[
+				"soundele",
+				"src/sound/SoundElement.ts"
+			],
+			[
+				"envu",
+				"src/utils/EnvUtil.ts"
+			],
+			[
+				"swfre",
+				"src/resource/types/SWFResource.ts"
+			],
+			[
+				"cpov",
+				"SeeYourselfRockified/game/src/scenes/ChoosePhotoOverlay.ts"
+			],
+			[
+				"ccoverla",
+				"SeeYourselfRockified/game/src/scenes/ChoosePhotoOverlay.ts"
+			],
+			[
+				"mchane",
+				"MusicMixer/src/mixer/MixerChannel.ts"
+			],
+			[
+				"cpoverl",
+				"SeeYourselfRockified/game/src/scenes/ChoosePhotoOverlay.ts"
+			],
+			[
+				"sounde",
+				"src/sound/SoundElement.ts"
+			],
+			[
+				"miserchan",
+				"MusicMixer/src/mixer/MixerChannel.ts"
+			],
+			[
+				"mixer",
+				"MusicMixer/src/mixer/MixerChannel.ts"
+			],
+			[
+				"envutil",
+				"src/utils/EnvUtil.ts"
+			],
+			[
+				"sharescreen",
+				"MusicMixer/src/screens/ShareScreen.ts"
+			],
+			[
+				"sscre",
+				"MusicMixer/src/screens/ShareScreen.ts"
+			],
+			[
+				"soundeleem",
+				"src/sound/SoundElement.ts"
+			],
+			[
+				"confi",
+				"MusicMixer/debug/config.json"
+			],
+			[
+				"mmgame",
+				"MusicMixer/src/MusicMixerGame.ts"
+			],
+			[
+				"endscre",
+				"MusicMixer/src/screens/EndScreen.ts"
+			],
+			[
+				"end",
+				"MusicMixer/src/screens/EndScreen.ts"
+			],
+			[
+				"animation",
+				"src/game/engine/rendering/spritesheet/SpriteSheetAnimation.ts"
+			],
+			[
+				"animatedg",
+				"src/game/graphic/AnimatedGraphic.ts"
+			],
+			[
+				"titles",
+				"MusicMixer/src/screens/TitleScreen.ts"
+			],
+			[
+				"tutorialo",
+				"MusicMixer/src/screens/TutorialOverlay.ts"
+			],
+			[
+				"tscreen",
+				"MusicMixer/src/screens/TitleScreen.ts"
+			],
+			[
+				"mmloa",
+				"MusicMixer/src/screens/MusicMixerLoader.ts"
+			],
+			[
+				"endss",
+				"MusicMixer/src/screens/EndScreen.ts"
+			],
+			[
+				"confo",
+				"MusicMixer/debug/config.json"
+			],
+			[
+				"game.css",
+				"MusicMixer/debug/css/game.css"
+			],
+			[
+				"sonsele",
+				"MusicMixer/src/screens/SongSelectScreen.ts"
+			],
+			[
+				"tutoo",
+				"MusicMixer/src/screens/TutorialOverlay.ts"
+			],
+			[
+				"menuo",
+				"MusicMixer/src/screens/MenuOverlay.ts"
+			],
+			[
+				"textgra",
+				"src/game/ui/TextGraphic.ts"
+			],
+			[
+				"recta",
+				"src/geom/Rectangle.ts"
+			],
+			[
+				"recor",
+				"MusicMixer/src/mixer/MixRecorder.ts"
+			],
+			[
+				"soundma",
+				"src/sound/SoundManager.ts"
+			],
+			[
+				"gdata",
+				"MusicMixer/src/data/GameData.ts"
+			],
+			[
+				"tit",
+				"MusicMixer/src/screens/TitleScreen.ts"
+			],
+			[
+				"decoding",
+				"MusicMixer/src/screens/DecodingOverlay.ts"
+			],
+			[
+				"de",
+				"MusicMixer/src/screens/DecodingOverlay.ts"
+			],
+			[
+				"string",
+				"MusicMixer/debug/strings.json"
+			],
+			[
+				"share",
+				"MusicMixer/src/screens/ShareScreen.ts"
+			],
+			[
+				"gameuiover",
+				"src/game/ui/GameUIOverlay.ts"
+			],
+			[
+				"guiov",
+				"src/game/ui/GameUIOverlay.ts"
+			],
+			[
+				"guio",
+				"src/game/ui/GameUIOverlay.ts"
+			],
+			[
+				"button",
+				"src/game/ui/Button.ts"
+			],
+			[
+				"imageg",
+				"src/game/graphic/ImageGraphic.ts"
+			],
+			[
+				"gamer",
+				"MusicMixer/src/GameReferences.ts"
+			],
+			[
+				"buttondata",
+				"MusicMixer/src/data/ButtonData.ts"
+			],
+			[
+				"soundelem",
+				"src/sound/SoundElement.ts"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/chris/Dropbox/Work/ChrisCutler/AvotaNG/AvotaNG.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"selected_group": 1,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 186.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

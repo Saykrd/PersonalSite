@@ -1,0 +1,23 @@
+{
+  "name": "personalsite",
+  "version": "1.0.0",
+  "description": "My Site",
+  "main": "server.js",
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Saykrd/PersonalSite.git"
+  },
+  "author": "Saykrd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Saykrd/PersonalSite/issues"
+  },
+  "homepage": "https://github.com/Saykrd/PersonalSite#readme",
+  "devDependencies": {
+    "jquery": "^3.2.1"
+  }
+}

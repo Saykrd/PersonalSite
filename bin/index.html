@@ -2,40 +2,206 @@
 	
 <head>
 	<link href='http://fonts.googleapis.com/css?family=Roboto+Slab:300,100' rel='stylesheet' type='text/css'>
-	<link rel="stylesheet" href="css/style.css"/>
+	<link rel="stylesheet" href="css/bootstrap.css"/>
+
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+	<script type="text/javascript" src="js/jquery.min.js"></script>
+	<script type="text/javascript" src="js/bootstrap.js"></script>
 	<script type="text/javascript" src="js/main.js"></script>
 </head>
 
 <body>
-	<div id = 'content'>
-		<header id = 'heading'>
-			<div id = "colorbar"></div>
-			<section id = 'intro'>
-				<img id = "logo" src="media/logo.svg"/>
-				<div id= "titleText">
+</body>
 
-					<div class= "title">AkilJules</div>
-					<div class= "subText"> Web and Mobile Interactive Developer 
-					</div>
+	<!-- NAV BAR -->
+	<nav class = "navbar navbar-default navbar-fixed-top">
+		<div class = "container">
 
-				</div>
-				
-				
-			</section>
-			<div id ='links'>
-				<nav>
-					<ul>
-						<li><a href="">Home</a></li>
-						<li><a href="">Resume</a></li>
-						<li><a href="http://saykrd.tumblr.com">Blog</a></li>
-					</ul>
-				</nav>
+			<a href="#" class = "navbar-brand pull-lef">
+				<img alt="Brand" src="media/img/logo-placeholder.svg" style = "height : 100%;" />
+				<p>AKIL JULES
+			</a>
+
+			<button class = "navbar-toggle" data-toggle = "collapse" data-target = ".navHeaderCollapse">
+				<span class = "icon-bar"></span>
+				<span class = "icon-bar"></span>
+				<span class = "icon-bar"></span>
+			</button>
+
+			<!-- Menu Items -->
+			<div class = "collapse navbar-collapse navHeaderCollapse navbar-right">
+				<ul class = "nav navbar-nav">
+					<li class = "active"><a href="#">Portfolio</a></li>
+					<li><a href="#">About</a></li>
+					<li><a href="#">Contact</a></li>
+				</ul>
+
 			</div>
 
-		</header>
+		</div>
+	</nav>
 
-	</div>
-</body>
+
+	<!-- CONTENT -->
+
+	<!-- INTRO --> 
+	<section class = "intro jumbotron" style = "text-align: center;">
+		<div class="container">
+			<img src="media/img/logo-placeholder.svg" style = "height : 25%; padding-top: 10%" />
+			<h1> Akil Jules</h1>
+			<h2> Front-End Web and Mobile Interactive Developer <h2>
+			<a class="btn btn-default">
+				<h2> See Portfolio </h2>
+			</a>
+		</div>
+	</section>
+
+
+	<!-- CLIENTS -->
+
+	<section id = "clients" class = "container" style = "text-align: center;">
+
+		<h2> Specializing in promotional interactive web-media for global brands </h2>
+		
+		<ul class="list-inline">
+
+			<li>
+				<img src="media/img/brand-icon-placeholder.svg" style="width: 75px; height: 75px;">
+			</li>
+
+			<li>
+				<img src="media/img/brand-icon-placeholder.svg" style="width: 75px; height: 75px;">
+			</li>
+
+			<li>
+				<img src="media/img/brand-icon-placeholder.svg" style="width: 75px; height: 75px;">
+			</li>
+
+			<li>
+				<img src="media/img/brand-icon-placeholder.svg" style="width: 75px; height: 75px;">
+			</li> 
+		</ul>
+
+			<!--
+			<div class = "col-md-3">
+				<img src="media/img/brand-icon-placeholder.svg" style="width: 75px; height: 75px;">
+			</div>
+
+			<div class = "col-md-3">
+				<img src="media/img/brand-icon-placeholder.svg" style="width: 75px; height: 75px;">
+			</div>
+
+			<div class = "col-md-3">
+				<img src="media/img/brand-icon-placeholder.svg" style="width: 75px; height: 75px;">
+			</div>
+
+			<div class = "col-md-3">
+				<img src="media/img/brand-icon-placeholder.svg" style="width: 75px; height: 75px;">
+			</div>
+			-->
+	</section>
+
+	<!-- PORTFOLIO -->
+
+	<section id = "portfolio" class = "jumbotron" style = "text-align: center;">
+		<div class="container">
+			<h2> PORTFOLIO </h2>
+			<div class="row" style="">
+
+				<div class = "col-sm-12">
+					<ul class="list-inline" style="margin: 0px">
+						<li style="padding: 0px;">
+							<img src="media/img/port-image1-placeholder.svg" style="width: 250px; height: 250px; ">
+						</li>
+						<li style="padding: 0px;">
+							<img src="media/img/port-image2-placeholder.svg" style="width: 250px; height: 250px; ">
+						</li>
+						<li style="padding: 0px;">
+							<img src="media/img/port-image1-placeholder.svg" style="width: 250px; height: 250px; padding: 0px;">
+						</li>
+					</ul>
+				</div>
+
+				<div class = "col-sm-12">
+					<ul class="list-inline" style="margin: 0px">
+						<li style="padding: 0px;">
+							<img src="media/img/port-image2-placeholder.svg" style="width: 250px; height: 250px; ">
+						</li>
+						<li style="padding: 0px;">
+							<img src="media/img/port-image1-placeholder.svg" style="width: 250px; height: 250px; ">
+						</li>
+						<li style="padding: 0px;">
+							<img src="media/img/port-image2-placeholder.svg" style="width: 250px; height: 250px; padding: 0px;">
+						</li>
+					</ul>
+				</div>
+
+				<div class = "col-sm-12">
+					<ul class="list-inline" style="margin: 0px">
+						<li style="padding: 0px;">
+							<img src="media/img/port-image1-placeholder.svg" style="width: 250px; height: 250px; ">
+						</li>
+						<li style="padding: 0px;">
+							<img src="media/img/port-image2-placeholder.svg" style="width: 250px; height: 250px; ">
+						</li>
+						<li style="padding: 0px;">
+							<img src="media/img/port-image1-placeholder.svg" style="width: 250px; height: 250px; padding: 0px;">
+						</li>
+					</ul>
+				</div>
+
+				<!--<div class = "col-sm-4" style="padding: 0px;">
+					<img src="media/img/port-image2-placeholder.svg" style="width: 250px; height: 250px;">
+				</div>
+
+				<div class = "col-sm-4" style="padding: 0px;">
+					<img src="media/img/port-image1-placeholder.svg" style="width: 250px; height: 250px;">
+				</div>
+
+				
+				<img class = "col-md-4" src="media/img/port-image1-placeholder.svg" style="width: 250px; height: 250px; padding: 0px;">
+				<img class = "col-md-4" src="media/img/port-image2-placeholder.svg" style="width: 250px; height: 250px; padding: 0px;">
+				<img class = "col-md-4" src="media/img/port-image1-placeholder.svg" style="width: 250px; height: 250px; padding: 0px;">
+				-->
+
+			</div>
+		</div>
+	</section>
+
+	<!-- ABOUT -->
+	<section class = "container-fluid" style = "text-align: center;">
+
+		<h2> ABOUT <h2>
+
+	</section>
+
+
+	<!-- CONTACT -->
+	<section class = "jumbotron" style = "text-align: center;">
+		<div class="container">
+			<h2> LET’S WORK TOGETHER! </h2>
+			<br>
+			<h2> I’m always willing to hear from creative people with a passion for their projects. Let me help turn your ideas into a reality. </h2>
+			<br>
+			<h2> Email </h2>
+			<h2> akiljules@gmail.com</h2>
+			<br>
+			<h2> Phone: (516) 474 - 6183</h2>
+			<h2> United States </h2>
+
+			<a class="btn btn-default"> @Saykrd </a>
+			<a class="btn btn-default"> github.com/Saykrd </a>
+			<a class="btn btn-default"> @saykrd </a>
+			<a class="btn btn-default"> saykrd.tumblr.com </a>
+
+			<p> Copyright 2017 - Akil Jules </p>
+		</div>
+
+	</section>
+
 
 
 </html>

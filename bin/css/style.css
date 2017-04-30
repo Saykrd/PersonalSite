@@ -1,8 +1,15 @@
 html, body{
-	text-align: center;
 }
 
 .brand-item {
 	padding: 10%;
 	margin-left: 20px;
 }
+
+.no-padding {
+	padding-right: 0;
+	padding-left: 0;
+	margin-left: 0;
+	margin-right: 0;
+}
+

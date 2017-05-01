@@ -21,7 +21,7 @@
 	<nav class = "navbar navbar-default navbar-fixed-top">
 		<div class = "container">
 
-			<a href="#" class = "navbar-brand pull-left">
+			<a href="#" class = "navbar-brand pull-left scroll-top">
 				<img alt="Brand" src="media/img/logo-placeholder.svg" style = "height : 100%;" />
 				<p>AKIL JULES
 			</a>
@@ -33,11 +33,11 @@
 			</button>
 
 			<!-- Menu Items -->
-			<div class = "collapse navbar-collapse navHeaderCollapse navbar-right">
+			<div id="main-nav" class = "collapse navbar-collapse navHeaderCollapse navbar-right">
 				<ul class = "nav navbar-nav">
-					<li class = "active"><a href="#">Portfolio</a></li>
-					<li><a href="#">About</a></li>
-					<li><a href="#">Contact</a></li>
+					<li class = "scroll-link" data-id="portfolio"><a href="#">Portfolio</a></li>
+					<li class = "scroll-link" data-id="about"><a href="#">About</a></li>
+					<li class = "scroll-link" data-id="contact"><a href="#">Contact</a></li>
 				</ul>
 
 			</div>
@@ -49,12 +49,12 @@
 	<!-- CONTENT -->
 
 	<!-- INTRO --> 
-	<section class = "intro container-solid" style = "text-align: center;">
+	<section class = "intro container-solid page-section" style = "text-align: center;">
 		<div class="container">
 			<img src="media/img/logo-placeholder.svg" style = "height : 25%; padding-top: 10%" />
 			<h1> Akil Jules</h1>
 			<h3> Front-End Web and Mobile Interactive Developer <h3>
-			<a class="btn btn-default">
+			<a class="btn btn-default scroll-link" data-id="portfolio">
 				<h4> See Portfolio </h4>
 			</a>
 		</div>
@@ -90,7 +90,7 @@
 
 	<!-- PORTFOLIO -->
 
-	<section id = "portfolio" class = "container-solid" style = "text-align: center;">
+	<section id = "portfolio" class = "container-solid page-section" style = "text-align: center;">
 		<div class="container">
 			<h3> PORTFOLIO </h3>
 			<br>
@@ -141,7 +141,7 @@
 	</section>
 
 	<!-- ABOUT -->
-	<section class = "container" style = "text-align: center;">
+	<section id="about" class = "container page-section" style = "text-align: center;">
 
 		<h3> ABOUT </h3>
 		<div class="row" style="margin: 4%;">
@@ -164,7 +164,7 @@
 	<!-- Sections to add-->
 
 	<!-- TECHNOLOGIES -->
-	<section class="container-solid" style = "text-align: center;">
+	<section id="technologies" class="container-solid page-section" style = "text-align: center;">
 		<h3> TECHNOLOGIES </h3>
 		<div class="row">
 			<div class="col-sm-3">
@@ -213,7 +213,7 @@
 
 
 	<!-- CONTACT -->
-	<section class = "container" style = "text-align: center;">
+	<section id="contact" class = "container page-section" style = "text-align: center;">
 		<div class="container">
 			<h3> LET’S WORK TOGETHER! </h3>
 			<br>
@@ -223,10 +223,10 @@
 			<h5> Phone: <b>(516) 474 - 6183</b></h5>
 			<h5> United States </h5>
 
-			<a class="btn btn-default" target = "_blank" href="https://www.twitter.com/Saykrd"> @Saykrd </a>
-			<a class="btn btn-default" target = "_blank" href="https://github.com/Saykrd"> github.com/Saykrd </a>
-			<a class="btn btn-default" target = "_blank" href="https://instagram.com/saykrd"> @saykrd </a>
-			<a class="btn btn-default" target = "_blank" href="https://saykrd.tumblr.com"> saykrd.tumblr.com </a>
+			<a class="btn btn-default btn-circle btn-xl" target = "_blank" href="https://www.twitter.com/Saykrd">  </a>
+			<a class="btn btn-default btn-circle btn-xl" target = "_blank" href="https://github.com/Saykrd">  </a>
+			<a class="btn btn-default btn-circle btn-xl" target = "_blank" href="https://instagram.com/saykrd">  </a>
+			<a class="btn btn-default btn-circle btn-xl" target = "_blank" href="https://saykrd.tumblr.com">  </a>
 			<br>
 			<br>
 		</div>

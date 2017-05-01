@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/Saykrd/PersonalSite#readme",
   "devDependencies": {
-    "jquery": "^3.2.1"
+    "jquery": "^3.2.1",
+    "pixi-filters": "^1.0.6"
   }
 }

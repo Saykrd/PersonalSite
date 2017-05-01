@@ -3,7 +3,7 @@ html, body{
 }
 
 .intro {
-	height:80%;
+	height:70%;
 	padding: 0;
 	text-align: center;
 	display: table;
@@ -19,9 +19,34 @@ html, body{
 	height: inherit;
 }
 
+.title{
+	font-weight: bold;
+	text-shadow: 2px 2px #000000;
+	color: #FFFFFF;
+}
+
+.subtitle{
+	font-size: 20px;
+	text-shadow: 2px 2px #000000;
+	color: #FFFFFF;
+}
+
 .page {
 	z-index: 10;
 }
+
+.sectionTitle1{
+	font-weight: bold;
+/*	text-shadow: 2px 2px #000000;*/
+	color: #FFFFFF;
+}
+
+.sectionTitle2{
+	font-weight: bold;
+/*	text-shadow: 2px 2px #FFFFFF;*/
+	color: #000000;
+}
+
 
 .intro-title {
 	display: table-cell;
@@ -75,7 +100,8 @@ html, body{
 }
 
 .container-solid {
-	background-color: #eeeeee;
+	background-color: #A095A0;
+	background-image: url('../media/img/texture/checker_circle.png');
 }
 
 .btn-logo {

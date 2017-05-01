@@ -11,9 +11,22 @@ html, body{
 	background-color: #eeeeee; 
 }
 
+#intro-banner {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: inherit;
+	height: inherit;
+}
+
+.page {
+	z-index: 10;
+}
+
 .intro-title {
 	display: table-cell;
 	vertical-align: middle;
+	z-index: 10;
 }
 
 .colorbar{

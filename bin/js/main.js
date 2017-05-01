@@ -30,6 +30,7 @@ function scrollToID(id, speed){
 
 $(document).ready(
 	function() { 
+		console.log("ready 2")
 		$('.scroll-link').on('click', onScrollLink);
 		$('.scroll-top').on('click', onScrollTop);
 	}

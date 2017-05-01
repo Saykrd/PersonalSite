@@ -2,6 +2,26 @@ html, body{
 	font-family: "Roboto", serif;
 }
 
+.intro {
+	height:80%;
+	padding: 0;
+	text-align: center;
+	display: table;
+	width: 100%;
+	background-color: #eeeeee; 
+}
+
+.intro-title {
+	display: table-cell;
+	vertical-align: middle;
+}
+
+.colorbar{
+	background:linear-gradient(to right, #EB8558 0%, #EB8558 50%, #7FAD9A 80%);;
+	height:0.5%;
+}
+
+
 .navbar-brand {
   padding: 0px;
   display: flex;

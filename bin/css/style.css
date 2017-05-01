@@ -1,4 +1,21 @@
 html, body{
+	font-family: "Roboto", serif;
+}
+
+.navbar-brand {
+  padding: 0px;
+  display: flex;
+  align-items: center;
+  float:none;
+}
+.navbar-brand>img {
+  height: 100%;
+  padding: 7px 14px;
+  width: 100px;
+}
+
+.flex-display {
+
 }
 
 .brand-item {
@@ -26,6 +43,11 @@ html, body{
 
 .container-solid {
 	background-color: #eeeeee;
+}
+
+.btn-logo {
+	height : 30px;
+	max-height: 50px;
 }
 
 .btn-circle {

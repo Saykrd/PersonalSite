@@ -1,7 +1,7 @@
 <html>
 	
 <head>
-	<link href='http://fonts.googleapis.com/css?family=Roboto+Slab:300,100' rel='stylesheet' type='text/css'>
+	<link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
 	<link rel="stylesheet" href="css/bootstrap.css"/>
 	<link rel="stylesheet" href="css/style.css"/>
 
@@ -18,32 +18,42 @@
 </body>
 
 	<!-- NAV BAR -->
-	<nav class = "navbar navbar-default navbar-fixed-top">
-		<div class = "container">
+	<div class = "container flex-display">
+		<nav class = "navbar navbar-default navbar-fixed-top" role="navigation">
+		 	<div class="container-fluid">
+		 	
 
-			<a href="#" class = "navbar-brand pull-left scroll-top">
-				<img alt="Brand" src="media/img/logo-placeholder.svg" style = "height : 100%;" />
-				<p>AKIL JULES
-			</a>
+				<div class="navbar-header">
 
-			<button class = "navbar-toggle" data-toggle = "collapse" data-target = ".navHeaderCollapse">
-				<span class = "icon-bar"></span>
-				<span class = "icon-bar"></span>
-				<span class = "icon-bar"></span>
-			</button>
+					<button class = "navbar-toggle collapsed" data-toggle = "collapse" data-target = "#main-nav">
+						<span class="sr-only">Toggle navigation</span>
+						<span class = "icon-bar"></span>
+						<span class = "icon-bar"></span>
+						<span class = "icon-bar"></span>
+					</button>
 
-			<!-- Menu Items -->
-			<div id="main-nav" class = "collapse navbar-collapse navHeaderCollapse navbar-right">
-				<ul class = "nav navbar-nav">
-					<li class = "scroll-link" data-id="portfolio"><a href="#">Portfolio</a></li>
-					<li class = "scroll-link" data-id="about"><a href="#">About</a></li>
-					<li class = "scroll-link" data-id="contact"><a href="#">Contact</a></li>
-				</ul>
+					<a href="#" class = "navbar-brand scroll-top">
+						<img src="media/img/logo-placeholder.svg"/>Akil Jules</a>
+
+					
+				</div>
+				
+
+				<!-- Menu Items -->
+				<div id="main-nav" class = "collapse navbar-collapse navHeaderCollapse navbar-right">
+					<ul class = "nav navbar-nav">
+						<li class = "scroll-link" data-id="portfolio"><a href="#">Portfolio</a></li>
+						<li class = "scroll-link" data-id="about"><a href="#">About</a></li>
+						<li class = "scroll-link" data-id="contact"><a href="#">Contact</a></li>
+					</ul>
+
+
+				</div>
 
 			</div>
 
-		</div>
-	</nav>
+		</nav>
+	</div>
 
 
 	<!-- CONTENT -->
@@ -64,7 +74,7 @@
 	<!-- CLIENTS -->
 
 	<section id = "clients" class = "container" style = "text-align: center;">
-
+		<br>
 		<h4> Specializing in promotional interactive web-media for global brands </h2>
 		
 		<div class = "row" style="margin-left: 10%; margin-bottom: 5%;">
@@ -99,19 +109,19 @@
 				
 				<div class = "col-sm-4 no-padding">
 					<a target="_blank" href="https://www.skylanders.com/online-games/skylanders-switchback-racetrack">
-						<img src="media/img/port/port_racetrack.png" >
+						<img class="img-responsive center-block" src="media/img/port/port_racetrack.png" >
 					</a>
 				</div>
 
 				<div class = "col-sm-4 no-padding">
 					<a target="_blank" href="http://www.cartoonnetwork.com/apps/cartoon-network/anything/">
-						<img src="media/img/port/port_jake.png" >
+						<img class="img-responsive center-block" src="media/img/port/port_jake.png" >
 					</a>
 				</div>
 
 				<div class = "col-sm-4 no-padding">
 					<a target="_blank" href="https://www.skylanders.com/online-games/skylanders-beyourownimaginator">
-						<img src="media/img/port/port_imaginators.png" >
+						<img class="img-responsive center-block" src="media/img/port/port_imaginators.png" >
 					</a>
 				</div>
 
@@ -119,19 +129,19 @@
 
 				<div class = "col-sm-4 no-padding">
 					<a target="_blank" href="https://www.skylanders.com/online-games/skylanders-splash-circuit">
-						<img src="media/img/port/port_circuit.png" >
+						<img class="img-responsive center-block" src="media/img/port/port_circuit.png" >
 					</a>
 				</div>
 
 				<div class = "col-sm-4 no-padding">
 					<a target="_blank" href="http://www.animystic.io/portfolio/act/skylanderssuperchargers2/debug/">
-						<img src="media/img/port/port_sky.png" >
+						<img class="img-responsive center-block" src="media/img/port/port_sky.png" >
 					</a>
 				</div>
 
 				<div class = "col-sm-4 no-padding">
 					<a target="_blank" href="https://www.hasbro.com/en-my/media/my-little-pony-see-yourself-as-an-equestria-girl-rockified:8E564417-5056-9047-F5A6-4A2A087FA965">
-						<img src="media/img/port/port_equestria.png" >
+						<img class="img-responsive center-block" src="media/img/port/port_equestria.png" >
 					</a>
 				</div>
 
@@ -148,8 +158,8 @@
 			<div class="col-sm-4">
 				<img class="img-rounded img-circle" src="media/img/avatar/profile.jpg" style="width : 100%;">
 			</div>
-			<div class="col-sm-8" style="text-align: left; margin-top: 4%;">
-				<h4>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.</h4>
+			<div class="col-sm-8" style="text-align: center; margin-top: 4%;">
+				<h4>I am an all around web design specialist and a game developer at heart. I have a degree in Interactive Design and Game Development and have worked on a variety of interesting projects on a wide range of platforms from mobile iOS/Android to Android based home entertainment systems and of course mobile and desktop web browsing.</h4>
 				<br>
 				<div style="text-align: center;">
 					<a class="btn btn-default" href="media/ajules_resume.pdf" target="_blank">Resume</a>
@@ -165,7 +175,10 @@
 
 	<!-- TECHNOLOGIES -->
 	<section id="technologies" class="container-solid page-section" style = "text-align: center;">
+		<br>
 		<h3> TECHNOLOGIES </h3>
+		<br>
+		<br>
 		<div class="row">
 			<div class="col-sm-3">
 				<img class="technology" src="media/img/brand/logo_js.svg" >
@@ -223,10 +236,10 @@
 			<h5> Phone: <b>(516) 474 - 6183</b></h5>
 			<h5> United States </h5>
 
-			<a class="btn btn-default btn-circle btn-xl" target = "_blank" href="https://www.twitter.com/Saykrd">  </a>
-			<a class="btn btn-default btn-circle btn-xl" target = "_blank" href="https://github.com/Saykrd">  </a>
-			<a class="btn btn-default btn-circle btn-xl" target = "_blank" href="https://instagram.com/saykrd">  </a>
-			<a class="btn btn-default btn-circle btn-xl" target = "_blank" href="https://saykrd.tumblr.com">  </a>
+			<a class="btn btn-default btn-xl" target = "_blank" href="https://www.twitter.com/Saykrd"><img class="btn-logo center-block img-responsive" src="media/img/brand/logo_twitter.svg"/></a>
+			<a class="btn btn-default btn-xl" target = "_blank" href="https://github.com/Saykrd"><img class="btn-logo center-block img-responsive" src="media/img/brand/logo_github.svg"/>  </a>
+			<a class="btn btn-default btn-xl" target = "_blank" href="https://instagram.com/saykrd"><img class="btn-logo center-block img-responsive" src="media/img/brand/logo_instagram.svg"/>  </a>
+			<a class="btn btn-default btn-xl" target = "_blank" href="https://saykrd.tumblr.com"><img class="btn-logo center-block img-responsive" src="media/img/brand/logo_tumblr.svg"/>  </a>
 			<br>
 			<br>
 		</div>

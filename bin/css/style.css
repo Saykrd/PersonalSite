@@ -2,8 +2,8 @@ html, body{
 }
 
 .brand-item {
-	padding: 10%;
-	margin-left: 20px;
+	padding: 0;
+	margin-left: 0;
 }
 
 .no-padding {
@@ -11,5 +11,20 @@ html, body{
 	padding-left: 0;
 	margin-left: 0;
 	margin-right: 0;
+}
+
+.footer {
+	margin-bottom: 0;
+	background-color: #494949;
+	color: #eeeeee;
+}
+
+.technology {
+	max-height: 200px;
+	max-width: 200px;
+}
+
+.container-solid {
+	background-color: #eeeeee;
 }
 

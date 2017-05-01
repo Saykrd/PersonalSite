@@ -55,7 +55,7 @@ html, body{
 }
 
 .colorbar{
-	background:linear-gradient(to right, #EB8558 0%, #EB8558 50%, #7FAD9A 80%);;
+	background:linear-gradient(to right, #EB8558 0%, #EB8558 50%, #53CBF4 80%);;
 	height:0.5%;
 }
 
@@ -82,8 +82,7 @@ html, body{
 }
 
 .no-padding {
-	padding-right: 0;
-	padding-left: 0;
+	padding: 4;
 	margin-left: 0;
 	margin-right: 0;
 }
@@ -100,8 +99,8 @@ html, body{
 }
 
 .container-solid {
-	background-color: #A095A0;
-	background-image: url('../media/img/texture/checker_circle.png');
+	background-color: #53CBF4;
+	/*background-image: url('../media/img/texture/checker_circle.png');*/
 }
 
 .btn-logo {

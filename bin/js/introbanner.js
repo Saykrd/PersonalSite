@@ -18,12 +18,12 @@ $(document).ready(
 		document.body.appendChild(app.view);
 
 		var texture = PIXI.Texture.fromImage('media/img/texture/bg_intro.jpg');
-		var texture2= PIXI.Texture.fromImage('media/img/texture/checker_circle.png');
+		var texture2= PIXI.Texture.fromImage('media/img/texture/checker_plus.png');
 		
 		//var sprite = new PIXI.Sprite(texture);
 
 		var bg = new PIXI.Graphics();
-		bg.beginFill(0xA095A0);
+		bg.beginFill(0x53CBF4);
 		bg.drawRect(0,0, width, height);
 		bg.endFill();
 
@@ -56,7 +56,7 @@ $(document).ready(
 		var bloom = new PIXI.filters.BloomFilter();
 		bloom.blur = 5;
 
-		container.filters = [bloom];
+		container.filters = [shockwave];
 
 
 
@@ -64,7 +64,7 @@ $(document).ready(
 		var timeline2 = new TimelineMax({});
 
 		//timeline.to(sprite.scale, 15,  {"x" : 2, "y" : 2, "repeat" : -1, "yoyo" : true, "ease" :  Linear.easeInOut});
-		//timeline1.add(TweenMax.to(shockwave, 5, {time : 1, repeat : -1}))
+		timeline1.add(TweenMax.to(shockwave, 5, {time : 1, repeat : -1}))
 		timeline2.add(TweenMax.to(container, 20,  {"x" : "-=500", "y" : "-=500", "repeat" : -1, "yoyo" : true, "ease" :  Linear.easeInOut}));
 		
 

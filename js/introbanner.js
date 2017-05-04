@@ -45,15 +45,16 @@ banner.prototype = {
 		//sprite.scale.y = 2;
 
 		this.app.stage.addChild(this.bg);
-		this.container.scale.set(2,2);
+		//this.container.scale.set(2,2);
 
 		this.bgTiles = [];
 
 		for (var i = 0; i < Math.ceil(width / 512); i++) {
 			for (var j = 0; j < Math.ceil(height / 512); j++) {
 				var overlay = new PIXI.Sprite(this.texture2);
-				overlay.x = i * 512;
-				overlay.y = j * 512;
+				overlay.scale.set(2,2);
+				overlay.x = i * 512 * 2;
+				overlay.y = j * 512 * 2;
 
 				this.bgTiles.push(overlay);
 				this.container.addChild(overlay)
@@ -68,6 +69,11 @@ banner.prototype = {
 		this.shockwave = new PIXI.filters.ShockwaveFilter();
 		//shockwave.size.set(4,4);
 		this.shockwave.time = 0;
+
+		var viewCenter = new PIXI.Point(width / 2, height / 2);
+		this.shockwave.center[0] = viewCenter.x / this.container.width;
+		this.shockwave.center[1] = viewCenter.y / this.container.height;
+
 
 		this.bloom = new PIXI.filters.BloomFilter();
 		this.bloom.blur = 5;

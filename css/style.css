@@ -8,7 +8,7 @@ html, body{
 	text-align: center;
 	display: table;
 	width: 100%;
-	background-color: #eeeeee; 
+	background-color: #eeeeee;
 }
 
 #intro-banner {
@@ -17,6 +17,10 @@ html, body{
 	left: 0;
 	width: inherit;
 	height: inherit;
+}
+
+.disable-pointer {
+	pointer-events: none;
 }
 
 .title{

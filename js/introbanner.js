@@ -74,11 +74,22 @@ banner.prototype = {
 		this.shockwave.center[0] = viewCenter.x / this.container.width;
 		this.shockwave.center[1] = viewCenter.y / this.container.height;
 
+		this.shockwave.params[0] = 10;
+		this.shockwave.params[1] = 0.1;
+		this.shockwave.params[2] = 0.1;
+
+		this.allowRipple = true;
+
 
 		this.bloom = new PIXI.filters.BloomFilter();
 		this.bloom.blur = 5;
 
 		this.container.filters = [this.shockwave];
+
+		this.bg.interactive = true;
+		//this.bg.buttonMode = true;
+		this.bg.on('pointerdown', this.click.bind(this));
+		this.bg.on('pointermove', this.move.bind(this));
 
 
 
@@ -89,6 +100,87 @@ banner.prototype = {
 		this.timeline1.add(TweenMax.to(this.shockwave, 5, {time : 1, repeat : -1}))
 		this.timeline2.add(TweenMax.to(this.container, 20,  {"x" : "-=500", "y" : "-=500", "repeat" : -1, "yoyo" : true, "ease" :  Linear.easeInOut}));
 		
+	},
+
+	move : function(event){
+		
+		if(!this.allowRipple || this.container.filters.length > 10) return;
+
+		var wave = new PIXI.filters.ShockwaveFilter();
+		var width = $(window).width();
+		var height = $(window).height();
+		var mouse = this.app.renderer.plugins.interaction.mouse.global;
+		//shockwave.size.set(4,4);
+		wave.time = 0;
+
+		
+
+		this.mouseInterval = setInterval((function(){
+			this.allowRipple = true;
+			console.log("Allowing ripple");
+			clearInterval(this.mouseInterval);
+		}).bind(this), 250);
+
+		var viewCenter = new PIXI.Point(mouse.x, mouse.y);
+
+		wave.center[0] = viewCenter.x / this.app.screen.width;
+		wave.center[1] = viewCenter.y / this.app.screen.height;
+
+		wave.params[0] = 10;
+		wave.params[1] = 0.1;
+		wave.params[2] = 0.1;
+
+		TweenMax.to(wave, 3, {
+			time : 1,
+			onComplete : function(w){
+				var filters = this.container.filters.concat() ;
+				filters.splice(filters.indexOf(w), 1);
+				this.container.filters = filters;
+			},
+
+			onCompleteParams: [wave],
+			onCompleteScope: this
+		});
+
+		var filters = this.container.filters.concat() ;
+		filters.push(wave);
+		this.container.filters = filters;
+		//console.log("click", event, this.app, viewCenter, this.container.filters);
+		this.allowRipple = false;
+	},
+
+	click : function(event){
+		
+		if(this.container.filters.length > 10) return;
+
+		var wave = new PIXI.filters.ShockwaveFilter();
+		var width = $(window).width();
+		var height = $(window).height();
+		var mouse = this.app.renderer.plugins.interaction.mouse.global;
+		//shockwave.size.set(4,4);
+		wave.time = 0;
+
+
+		var viewCenter = new PIXI.Point(mouse.x, mouse.y);
+
+		wave.center[0] = viewCenter.x / this.app.screen.width;
+		wave.center[1] = viewCenter.y / this.app.screen.height;
+		TweenMax.to(wave, 3, {
+			time : 1,
+			onComplete : function(w){
+				var filters = this.container.filters.concat() ;
+				filters.splice(filters.indexOf(w), 1);
+				this.container.filters = filters;
+			},
+
+			onCompleteParams: [wave],
+			onCompleteScope: this
+		});
+
+		var filters = this.container.filters.concat() ;
+		filters.push(wave);
+		this.container.filters = filters;
+		console.log("click", event, this.app, viewCenter, wave);
 	},
 
 	deconstruct : function(){
